@@ -1,0 +1,10 @@
+.logo-box {
+    display: none;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    padding: 10px;
+    align-items: center;
+}
