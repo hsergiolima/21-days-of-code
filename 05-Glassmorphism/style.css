@@ -1,0 +1,108 @@
+body {
+background: rgb(1,1,1);
+background: linear-gradient(90deg, #5F093D 0%, #B21368 35%, #D67BA8 100%);
+}
+
+#box1 {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    background: rgba( 255, 255, 255, 0.12 );
+    box-shadow: 0 8px 32px 0 rgba(236, 237, 240, 0.37);
+    backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+#box2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    background: rgba( 255, 255, 255, 0.12 );
+    box-shadow: 0 8px 32px 0 rgba(236, 237, 240, 0.37);
+    backdrop-filter: blur( 5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+#box3 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    background: rgba( 255, 255, 255, 0.12 );
+    box-shadow: 0 8px 32px 0 rgba(236, 237, 240, 0.37);
+    backdrop-filter: blur( 15px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+
+
+.dots {
+    justify-content: left;
+    align-items: left;
+
+}
+.dot1 {
+    margin-right: 10px;
+    height: 15px;
+    width: 15px;
+    background-color: rgb(194, 67, 67);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot2 {
+    margin-right: 10px;
+    height: 15px;
+    width: 15px;
+    background-color: rgb(238, 208, 36);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot3 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(16, 199, 10);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .code {
+    font-family: monospace;
+    font-size: 25px;
+    color:darkgray;
+  }
+
+  .property {
+    color: darkgreen;
+  }
+
+  .value {
+    color: darkblue;
+  }
+
+  .set {
+    color: darkred;
+  }
+
+  #ball {
+    position: absolute;
+    top: 7%;
+    left: 45%;
+    background: linear-gradient(90deg, #5F093D 0%, #B21368 35%, #D67BA8 100%);
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    /*border-radius: 50%;*/
+    width: 300px;
+    height: 800px;
+  }
