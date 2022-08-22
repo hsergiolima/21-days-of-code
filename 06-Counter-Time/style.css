@@ -1,0 +1,34 @@
+body {
+    background-color: lightgrey;
+}
+
+#setBox {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    background: rgba( 255, 255, 255, 0.12 );
+    backdrop-filter: blur( 5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+#counter {
+    font-size: 25px;
+
+}
+
+#clockBox {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgba(0,0,0, 0.56) 0px 22px 70px 4px;
+    background: rgba( 255, 255, 255, 0.12 );
+    backdrop-filter: blur( 5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
