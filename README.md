@@ -8,7 +8,7 @@ Desafio 21 dias de código da Rocketseat.
 4. ~~Crie uma calculadora.~~
 5. ~~Desenvolva uma página customizada que exiba o erro 404.~~
 6. ~~Crie um card com o efeito glasmorphism.~~
-7. Desenvolva um contador.
+7. ~~Desenvolva um contador.~~
 
 ## Semana 2
 8. Desenvolva um toggle que altere o tema para claro e escuro.
