@@ -8,4 +8,13 @@ Desafio 21 dias de código da Rocketseat.
 4. ~~Crie uma calculadora.~~
 5. ~~Desenvolva uma página customizada que exiba o erro 404.~~
 6. ~~Crie um card com o efeito glasmorphism.~~
-7. Desenvolva um contador.
+7. ~~Desenvolva um contador.~~
+
+## Semana 2
+8. Desenvolva um toggle que altere o tema para claro e escuro.
+9. Crie uma animação de loading.
+10. Utilize a lib Particle.js do JavaScript.
+11. Crie o layout de um formulário de login.
+12. Desenvolva uma galeria de imagens.
+13. Desenvolva um menu responsivo.
+14. Crie um formulário de quizzes.
